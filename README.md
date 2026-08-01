@@ -1,4 +1,3 @@
-## Hi there 👋
 <!-- ===========================
 GitHub Profile README
 Author: Aisha Abrar Chunawala
