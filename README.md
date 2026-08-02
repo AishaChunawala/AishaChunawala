@@ -2,10 +2,9 @@
 GitHub Profile README
 Author: Aisha Abrar Chunawala
 =========================== -->
-
 <div align="center">
 
-<!-- Animated Header Banner -->
+<!-- Waving Banner Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:8a2be2&height=220&section=header&text=Hi%20%F0%9F%90%8B%20I'm%20Aisha%20Abrar%20Chunawala&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner"/>
 
 ### 🎯 Aspiring AI & Data Science Developer | Prototyping with AI-First Tools
@@ -18,7 +17,7 @@ Author: Aisha Abrar Chunawala
   <img src="https://img.shields.io/github/followers/AishaChunawala?label=Followers&style=for-the-badge&color=8a2be2" alt="Followers"/>
 </p>
 
-<!-- Social Connect (Gmail Removed) -->
+<!-- Social Connect -->
 <p align="center">
   <a href="https://linkedin.com/in/aishachunawala">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -28,14 +27,14 @@ Author: Aisha Abrar Chunawala
   </a>
 </p>
 
+<!-- Animated Pixel Setup (Like Raj's banner with girl setup) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="100%" alt="Pixel Art Coding Girl Banner"/>
+</p>
+
 </div>
 
 <br/>
-
-<!-- Floating Working GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="400" alt="Coding GIF"/>
-</p>
 
 ---
 
