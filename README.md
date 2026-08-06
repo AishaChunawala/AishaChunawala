@@ -4,15 +4,11 @@ Author: Aisha Abrar Chunawala
 =========================== -->
 <div align="center">
 
-<!-- Banner: Pixel Art Girl at Desk -->
-<!-- This is a dynamic, auto-generated banner that perfectly matches your setup -->
-<img src="https://capsule-render.vercel.app/api?type=retro&color=0e75b6&height=320&section=header&text=Aisha%20Abrar%20Chunawala&fontSize=38&animation=fadeIn&fontColor=ffffff&reversal=true&desc=HTML%20|%20CSS%20|%20Python%20|%20AI%20Prototyping&descSize=20" width="100%" alt="Aisha's Retro Pixel Banner"/>
-
 ### 🚀 Aspiring AI & Data Science Developer | Learning Bit by Bit :)
 
 ---
 
-<!-- Profile Badges & Stats Row (Non-clickable) -->
+<!-- Profile Badges & Stats Row -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AishaChunawala&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/AishaChunawala?label=Followers&style=for-the-badge&color=8a2be2" alt="Followers"/>
@@ -32,7 +28,7 @@ Author: Aisha Abrar Chunawala
 
 <br/>
 
-<!-- Working Girl GIF (Dynamic reference from Tuba/Raj inspiration) -->
+<!-- Working Girl GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="400" alt="Coding GIF"/>
 </p>
