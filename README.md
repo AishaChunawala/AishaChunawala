@@ -4,7 +4,7 @@ Author: Aisha Abrar Chunawala
 =========================== -->
 <div align="center">
 
-### 🚀 Aspiring AI & Data Science Developer | Learning Bit by Bit :)
+### 🚀 Aspiring AI & ML Engineer | Learning Bit by Bit :)
 
 ---
 
