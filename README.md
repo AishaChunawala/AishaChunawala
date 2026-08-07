@@ -49,7 +49,7 @@ Author: Aisha Abrar Chunawala
 
 ### 🌐 Web & Languages
 
-| Technology | Badge (Non-clickable) | Description |
+| Technology | Badge | Description |
 | :--- | :--- | :--- |
 | **HTML5** | <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5 Badge"/> | Structure & Semantic Web |
 | **CSS3** | <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3 Badge"/> | Styling & Responsive Layouts |
@@ -59,7 +59,7 @@ Author: Aisha Abrar Chunawala
 
 ### 🤖 AI Platforms & Assistants
 
-| Tool | Badge (Non-clickable) | Role |
+| Tool | Badge | Role |
 | :--- | :--- | :--- |
 | **Bolt.new** | <img src="https://img.shields.io/badge/Bolt.new-⚡-black?style=flat-square" alt="Bolt Badge"/> | Full-stack AI Web Generation |
 | **AntiGravity** | <img src="https://img.shields.io/badge/AntiGravity-🚀-blueviolet?style=flat-square" alt="AntiGravity Badge"/> | Fast AI App Builder |
