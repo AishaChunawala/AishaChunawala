@@ -59,23 +59,12 @@ Author: Aisha Abrar Chunawala
 
 ## 📊 GitHub Analytics
 
-<!-- 1. Contribution Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AishaChunawala&theme=tokyonight&hide_border=true" alt="Aisha's GitHub Streak" />
 </p>
 
-<!-- 2. Most Used Languages -->
 <p align="center">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AishaChunawala&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 📊 Activity Overview
-
-<!-- 3. Commit & Activity Distribution Card -->
-<p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AishaChunawala&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Activity Overview Stats" />
 </p>
 
 ---
