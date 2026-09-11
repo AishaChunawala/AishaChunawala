@@ -8,13 +8,11 @@ Author: Aisha Abrar Chunawala
 
 ---
 
-<!-- Profile Badges & Stats Row -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AishaChunawala&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/AishaChunawala?label=Followers&style=for-the-badge&color=8a2be2" alt="Followers"/>
 </p>
 
-<!-- Social Connect Buttons -->
 <p align="center">
   <a href="https://linkedin.com/in/aishachunawala">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -28,7 +26,6 @@ Author: Aisha Abrar Chunawala
 
 <br/>
 
-<!-- Working Girl GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="400" alt="Coding GIF"/>
 </p>
@@ -84,7 +81,7 @@ Author: Aisha Abrar Chunawala
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AishaChunawala&theme=tokyo-night" width="100%" alt="Contribution Graph"/>
+  <img src="https://grank.dev/api/github/calendar/AishaChunawala" width="100%" alt="Contribution Graph"/>
 </p>
 
 ---
