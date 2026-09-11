@@ -60,10 +60,9 @@ Author: Aisha Abrar Chunawala
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AishaChunawala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aisha's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AishaChunawala&theme=tokyonight&hide_border=true" alt="Aisha's GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AishaChunawala&show_icons=true&theme=tokyonight&hide_border=true" alt="Aisha's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AishaChunawala&theme=tokyonight&hide_border=true" alt="Aisha's GitHub Streak" height="165"/>
 </p>
-
 ---
 
 ## 💬 Let's Connect
