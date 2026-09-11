@@ -54,7 +54,6 @@ Author: Aisha Abrar Chunawala
 | **SafeSpend** | **Behavioral Finance Web App**<br/>Engineered during a 48-hour hackathon sprint. Features algorithmic "time-cost" calculations and dynamic UI logic to help users evaluate impulsive spending habits against real labor value. | `Prototype Complete` |
 | **Multimodal Agent & Voice Pipeline** | **Conversational Voice Interfaces**<br/>Exploratory prototypes integrating LLMs with voice input/output pipelines, focused on low-latency tool calling and human-centric conversational flows. | `In Active Development` |
 | **Client-Side Productivity Tools** | **Rapid Web Interfaces**<br/>Clean, responsive web utilities built using rapid AI-first frontend scaffolding and deployed via GitHub Pages. | `Deployed / Maintained` |
-
 ---
 
 ## 📊 GitHub Analytics
@@ -65,6 +64,13 @@ Author: Aisha Abrar Chunawala
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AishaChunawala&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+---
+
+## 📊 Activity Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AishaChunawala&theme=tokyonight" alt="Activity Radar Chart" />
 </p>
 ---
 
