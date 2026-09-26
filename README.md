@@ -22,38 +22,38 @@ Author: Aisha Abrar Chunawala
 
 ## 📌 About Me
 
-- 🎓 **Engineering & Focus:** B.Tech in Computer Science Engineering (AI & ML), working at the intersection of **GenAI workflows, multimodal agents, and behavioral tech**[cite: 1].
-- 🛠️ **Build Philosophy:** Big advocate of **AI-assisted engineering and vibe coding**—translating high-level logic and natural language specifications directly into functional, scalable web apps[cite: 1].
-- 🎙️ **Beyond Code:** Tech speaker, competitive debate finalist, and former Student Cabinet IT Minister experienced in technical communication and campus-scale AV operations[cite: 1].
-- 🎯 **Open For:** Hackathon collaborations, developer advocate programs, and agentic AI initiatives[cite: 1].
+- 🎓 **Engineering & Focus:** B.Tech in Computer Science Engineering (AI & ML), working at the intersection of **GenAI workflows, multimodal agents, and behavioral tech**.
+- 🛠️ **Build Philosophy:** Big advocate of **AI-assisted engineering and vibe coding**—translating high-level logic and natural language specifications directly into functional, scalable web apps.
+- 🎙️ **Beyond Code:** Tech speaker, competitive debate finalist, and former Student Cabinet IT Minister experienced in technical communication and campus-scale AV operations.
+- 🎯 **Open For:** Hackathon collaborations, developer advocate programs, and agentic AI initiatives.
 
 ---
 
 ## 🛠️ Tech Stack & Capabilities
 
 **AI & Agent Orchestration**
-`Claude API` • `OpenAI API` • `Google Gemini` • `Multimodal Agents` • `Voice Workflows` • `Prompt Orchestration`[cite: 1]
+`Claude API` • `OpenAI API` • `Google Gemini` • `Multimodal Agents` • `Voice Workflows` • `Prompt Orchestration`
 
 **Rapid Prototyping & Tooling**
-`Bolt.new` • `GitHub Copilot` • `Git / GitHub` • `AntiGravity` • `Vibe Coding Pipelines`[cite: 1]
+`Bolt.new` • `GitHub Copilot` • `Git / GitHub` • `AntiGravity` • `Vibe Coding Pipelines`
 
 **Frontend & Foundations**
-`Python` • `JavaScript (ES6+)` • `HTML5` • `CSS3` • `GitHub Pages`[cite: 1]
+`Python` • `JavaScript (ES6+)` • `HTML5` • `CSS3` • `GitHub Pages`
 
 **Cloud & Certifications**
-`Oracle Cloud Infrastructure (OCI) AI Foundations Associate` • `GenAI Bootcamp Certified`[cite: 1]
+`Oracle Cloud Infrastructure (OCI) AI Foundations Associate` • `GenAI Bootcamp Certified`
 
 ---
 
 ## 🚀 Featured Projects & In-Flight Builds
 
-*Note: The following projects are private active builds and hackathon prototypes.*[cite: 1]
+*Note: The following projects are private active builds and hackathon prototypes.*
 
 | Project | Focus & Core Architecture | Status |
 | :--- | :--- | :--- |
-| **SafeSpend** | **Behavioral Finance Web App**<br/>Engineered during a 48-hour hackathon sprint. Features algorithmic "time-cost" calculations and dynamic UI logic to help users evaluate impulsive spending habits against real labor value. | `Prototype Complete`[cite: 1] |
-| **Multimodal Agent & Voice Pipeline** | **Conversational Voice Interfaces**<br/>Exploratory prototypes integrating LLMs with voice input/output pipelines, focused on low-latency tool calling and human-centric conversational flows. | `In Active Development`[cite: 1] |
-| **Client-Side Productivity Tools** | **Rapid Web Interfaces**<br/>Clean, responsive web utilities built using rapid AI-first frontend scaffolding and deployed via GitHub Pages. | `Deployed / Maintained`[cite: 1] |
+| **SafeSpend** | **Behavioral Finance Web App**<br/>Engineered during a 48-hour hackathon sprint. Features algorithmic "time-cost" calculations and dynamic UI logic to help users evaluate impulsive spending habits against real labor value. | `Prototype Complete`|
+| **Multimodal Agent & Voice Pipeline** | **Conversational Voice Interfaces**<br/>Exploratory prototypes integrating LLMs with voice input/output pipelines, focused on low-latency tool calling and human-centric conversational flows. | `In Active Development`|
+| **Client-Side Productivity Tools** | **Rapid Web Interfaces**<br/>Clean, responsive web utilities built using rapid AI-first frontend scaffolding and deployed via GitHub Pages. | `Deployed / Maintained`|
 
 ---
 
