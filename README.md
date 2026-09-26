@@ -71,8 +71,8 @@ Author: Aisha Abrar Chunawala
 
 ## 💬 Let's Connect
 
-- 💼 **LinkedIn:** [linkedin.com/in/aishachunawala](https://linkedin.com/in/aishachunawala)[cite: 1]
-- 📬 **Get in touch:** Reach out directly on LinkedIn for AI collaborations, discussions, or speaking opportunities![cite: 1]
+- 💼 **LinkedIn:** [linkedin.com/in/aishachunawala](https://linkedin.com/in/aishachunawala)
+- 📬 **Get in touch:** Reach out directly on LinkedIn for AI collaborations, discussions, or speaking opportunities!
 
 ---
 
