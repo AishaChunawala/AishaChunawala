@@ -57,6 +57,17 @@ Author: Aisha Abrar Chunawala
 
 ---
 
+## 📚 Peer Academic Hub (Student Support)
+
+*A collaborative collection of coursework resources, practical codes, and mini-projects built by students, for students to share solutions and learn together.*
+
+| Repository | Focus & Description | Status |
+| :--- | :--- | :--- |
+| **[ES26205: Engineering Robotics](https://github.com/AishaChunawala/es26205-robotics-labs)** | **Robotics Simulations & Practical Codes**<br/>A peer-to-peer repository for practical codes, simulation scripts, and notes for the ES26205: Engineering Robotics course. Built by students, for students to share solutions and collaborate. | `Active / Shared` |
+| **[ES26104: Programming for Engineers](https://github.com/AishaChunawala/es26104_programming_for_engineers)** | **Python Mini-Projects & Algorithms**<br/>A curated collection of college-level Python mini-projects, scripts, and algorithmic implementations showcasing core programming concepts and problem-solving. | `Active / Shared` |
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
