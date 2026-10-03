@@ -63,8 +63,8 @@ Author: Aisha Abrar Chunawala
 
 | Repository | Focus & Description | Status |
 | :--- | :--- | :--- |
-| **[ES26205: Engineering Robotics](https://github.com/AishaChunawala/es26205-robotics-labs)** | **Robotics Simulations & Practical Codes**<br/>A peer-to-peer repository for practical codes, simulation scripts, and notes for the ES26205: Engineering Robotics course. Built by students, for students to share solutions and collaborate. | `Active / Shared` |
-| **[ES26104: Programming for Engineers](https://github.com/AishaChunawala/es26104_programming_for_engineers)** | **Python Mini-Projects & Algorithms**<br/>A curated collection of college-level Python mini-projects, scripts, and algorithmic implementations showcasing core programming concepts and problem-solving. | `Active / Shared` |
+| **<a href="https://github.com/AishaChunawala/es26205-robotics-labs" target="_blank">ES26205: Engineering Robotics</a>** | **Robotics Simulations & Practical Codes**<br/>A peer-to-peer repository for practical codes, simulation scripts, and notes for the ES26205: Engineering Robotics course. Built by students, for students to share solutions and collaborate. | `Active / Shared` |
+| **<a href="https://github.com/AishaChunawala/es26104_programming_for_engineers" target="_blank">ES26104: Programming for Engineers</a>** | **Python Mini-Projects & Algorithms**<br/>A curated collection of college-level Python mini-projects, scripts, and algorithmic implementations showcasing core programming concepts and problem-solving. | `Active / Shared` |
 
 ---
 
@@ -82,7 +82,7 @@ Author: Aisha Abrar Chunawala
 
 ## 💬 Let's Connect
 
-- 💼 **LinkedIn:** [linkedin.com/in/aishachunawala](https://linkedin.com/in/aishachunawala)
+- 💼 **LinkedIn:** <a href="https://linkedin.com/in/aishachunawala" target="_blank">linkedin.com/in/aishachunawala</a>
 - 📬 **Get in touch:** Reach out directly on LinkedIn for AI collaborations, discussions, or speaking opportunities!
 
 ---
